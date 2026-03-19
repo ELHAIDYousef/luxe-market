@@ -97,7 +97,7 @@ A masterclass in minimalist discovery. The storefront utilizes a URL-driven sear
 - **AIDA Funnel Tracking**: Every interaction is tracked through a custom `useAnalytics` hook, feeding the "Interest" and "Desire" stages of the marketing funnel.
 
 ======== Home page ========
-![alt text](home.png)
+![alt text](images/home.png)
 
 ### **2. High-Fidelity Product Detail**
 
@@ -108,7 +108,7 @@ Optimized for conversion and clarity, the product detail pages provide a tactile
 - **Contextual Recommendations**: A "You May Also Like" engine that intelligently prioritizes same-category items to drive higher AOV.
 
 ======== Product details ========
-![alt text](details.png)
+![alt text](images/details.png)
 
 ### **3. Precision Checkout & Order Tracking**
 
@@ -119,19 +119,19 @@ A distraction-free multi-step checkout flow that prioritizes data integrity and 
 - **Visual Timeline**: A dedicated order tracking page featuring a visual progress bar for the order lifecycle (Pending → Processing → Shipped → Delivered).
 
 ======== SignUp before order ========
-![alt text](signup.png)
+![alt text](images/signup.png)
 
 ======== Cart ========
-![alt text](cart.png)
+![alt text](images/cart.png)
 
 ======== Validate user and payment information ========
-![alt text](orderValidation.png)
+![alt text](images/orderValidation.png)
 
 ======== Order confirmed with ID to track it ========
-![alt text](orderConfirmed.png)
+![alt text](images/orderConfirmed.png)
 
 ======== Track order with ID ========
-![alt text](tackOrder.png)
+![alt text](images/tackOrder.png)
 
 ### **4. Admin Command Center**
 
@@ -142,28 +142,28 @@ A robust, secure suite designed for business orchestration.
 - **Team Management**: A high-security portal for Super Admins to manage roles (Super Admin, Editor) and account statuses.
 
 ======== Admin dashboard ========
-![alt text](dashboard.png)
+![alt text](images/dashboard.png)
 
 ======== Table of products ========
-![alt text](products.png)
+![alt text](images/products.png)
 
 ======== Add new product ========
-![alt text](addProduct.png)
+![alt text](images/addProduct.png)
 
 ======== Manage admin profil ========
-![alt text](adminProfil.png)
+![alt text](images/adminProfil.png)
 
 ======== Table of users ========
-![alt text](users.png)
+![alt text](images/users.png)
 
 ======== Table of admins ========
-![alt text](admins.png)
+![alt text](images/admins.png)
 
 ======== Marketing Analytics ========
-![alt text](marketing1.png)
+![alt text](images/marketing1.png)
 
 ======== Marketing Analytics ========
-![alt text](marketing2.png)
+![alt text](images/marketing2.png)
 
 ---
 
